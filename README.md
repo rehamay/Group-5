@@ -1,2 +1,5 @@
 # Group-5
-AI-Powered Job Market Insights
+Title: AI-Powered Job Market Insights
+
+Description:
+The “AI-Powered Job Market Insights” dataset simulates 500 job listings, highlighting AI’s impact on industries through factors like skills, automation risk, and growth projections. It helps explore employment trends and the future of work.
